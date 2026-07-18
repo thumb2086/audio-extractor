@@ -1,6 +1,7 @@
 # Flutter
 .dart_tool/
 build/
+release/
 *.iml
 .idea/
 .metadata
